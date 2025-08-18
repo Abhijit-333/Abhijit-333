@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhijit Telrandhe  
 
 🎓 Master’s Student in Embedded Systems Engineering @ Albert Ludwig's University of Freiburg  
-💡 Computer Vision Engineer | AI Research Enthusiast | Problem Solver  
+💡 Computer Vision Engineer | AI Research Enthusiast | Ex-Dassault Systemes  
 🌍 Based in Freiburg im Breisgau, Germany  
 
 ---
