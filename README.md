@@ -65,10 +65,9 @@
 ---
 
 ## 📌 Featured Projects
-- 🦾 **Smart Crosswalk Assistance** – Real-time CV guidance system for visually impaired pedestrians  
-- 🔎 **License Plate Recognition System** – OCR pipeline for vehicle surveillance *(IJREAM publication)*  
-- 📄 **RAG-based QA System** – Semantic search & Q&A using FAISS, LangChain & Streamlit  
-- 🏠 **RF-based Smart Home Automation** – Embedded IoT solution for remote electrical control  
+- 🦾 **Smart Crosswalk Assistance** – Real-time CV guidance system for visually impaired pedestrians   
+- 📄 **RAG-based QA System** – Semantic search & Q&A using FAISS, LangChain & Streamlit
+- 🔎 **License Plate Recognition System** – OCR pipeline for vehicle surveillance *(IJREAM publication)*   
 
 ---
 
@@ -78,14 +77,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijittelrandhe&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijittelrandhe&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijittelrandhe&theme=tokyonight)  
-
----
-
----
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhijit-telrandhe-440027182/)  
