@@ -65,8 +65,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🦾 **Smart Crosswalk Assistance** – Real-time CV guidance system for visually impaired pedestrians   
-- 📄 **RAG-based QA System** – Semantic search & Q&A using FAISS, LangChain & Streamlit
+
 - 🔎 **License Plate Recognition System** – OCR pipeline for vehicle surveillance *(IJREAM publication)*   
 
 ---
