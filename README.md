@@ -29,8 +29,7 @@
 ### 🤖 AI / ML  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-FF6F00?style=for-the-badge)  
-![RAG](https://img.shields.io/badge/RAG-Semantic_Search-blueviolet?style=for-the-badge)  
+![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-FF6F00?style=for-the-badge)   
 ![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-00A36C?style=for-the-badge&logo=pandas&logoColor=white)  
 
 ---
