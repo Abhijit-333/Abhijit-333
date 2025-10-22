@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently researching **3D Reconstruction & Generative AI models** at Fraunhofer IPM (Master Thesis)  
+- 🔭 Finished Master Thesis with focus on **3D Reconstruction & Generative AI models** at Fraunhofer IPM   
 - 🌱 3+ years of experience in **Python, Machine Learning, and Computer Vision**  
 - 🏆 Awarded *Innovator and Collaborator Trophy* at Dassault Systèmes for leadership and technical excellence  
 - 💬 Ask me about: Computer Vision, Deep Learning (PyTorch), 3D Data Processing, QA Automation  
