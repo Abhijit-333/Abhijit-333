@@ -65,8 +65,9 @@
 
 ## 📌 Featured Projects
 
-- 🔎 **License Plate Recognition System** – OCR pipeline for vehicle surveillance *(IJREAM publication)*   
-
+- 🔎 **License Plate Recognition System** - OCR pipeline for vehicle surveillance *(IJREAM publication)*
+- 🚦 **Smart Crosswalk Assistant** - Empowering safety through intelligent vision.
+ 
 ---
 
 ## 🎓 Education
