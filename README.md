@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🔭 Finished Master Thesis with focus on **3D Reconstruction & Generative AI models** at Fraunhofer IPM   
-- 🌱 3+ years of experience in **Python, Machine Learning, and Computer Vision**  
+- 🌱 2+ years of experience in **Python, Machine Learning, and Computer Vision**  
 - 🏆 Awarded *Innovator and Collaborator Trophy* at Dassault Systèmes for leadership and technical excellence  
 - 💬 Ask me about: Computer Vision, Deep Learning (PyTorch), 3D Data Processing, QA Automation  
 - ⚡ Fun fact: Former **semi-professional football player**, love hiking  
