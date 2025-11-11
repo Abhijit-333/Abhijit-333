@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Abhijit Telrandhe  
 
 🎓 Master’s Student in Embedded Systems Engineering @ Albert Ludwig's University of Freiburg  
-💡 Computer Vision Engineer | AI Research Enthusiast | Ex-Dassault Systemes  
+💡 Computer Vision Engineer | AI Research and Biomedical Engineering Enthusiast | Ex-Dassault Systemes  
 🌍 Based in Freiburg im Breisgau, Germany  
 
 ---
 
 ## 🚀 About Me
-- 🔭 Finished Master Thesis with focus on **3D Reconstruction & Generative AI models** at Fraunhofer IPM   
+- 🔭 Finished Master Thesis with focus on **3D Reconstruction & 3D Generative AI models** at Fraunhofer IPM   
 - 🌱 2+ years of experience in **Python, Machine Learning, and Computer Vision**  
 - 🏆 Awarded *Innovator and Collaborator Trophy* at Dassault Systèmes for leadership and technical excellence  
 - 💬 Ask me about: Computer Vision, Deep Learning (PyTorch), 3D Data Processing, QA Automation  
